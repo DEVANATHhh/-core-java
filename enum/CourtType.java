@@ -1,0 +1,4 @@
+enum CourtType
+{
+    SUPREME,HIGH,DISTRICT,CIVIL
+}
