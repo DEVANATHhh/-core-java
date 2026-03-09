@@ -1,0 +1,4 @@
+enum ParliamentType
+{
+    LOKSABHA,RAJYASABHA,STATE,UNION
+}

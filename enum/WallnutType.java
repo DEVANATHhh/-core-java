@@ -1,0 +1,4 @@
+enum WallnutType
+{
+    BLACK,ENGLISH,PERSIAN,BUTTERNUT
+}
